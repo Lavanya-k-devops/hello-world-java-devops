@@ -1,0 +1,21 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.4)
+
+2025-04-08T20:03:48.898Z  INFO 2757 --- [helloworldapp] [           main] dev.dp.HelloworldappApplication          : Starting HelloworldappApplication v0.0.1-SNAPSHOT using Java 17.0.14 with PID 2757 (/home/lavanya_k/hello-world/target/hello-world-0.0.1-SNAPSHOT.jar started by lavanya_k in /home/lavanya_k/hello-world)
+2025-04-08T20:03:48.914Z  INFO 2757 --- [helloworldapp] [           main] dev.dp.HelloworldappApplication          : No active profile set, falling back to 1 default profile: "default"
+2025-04-08T20:03:53.642Z  INFO 2757 --- [helloworldapp] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2025-04-08T20:03:53.678Z  INFO 2757 --- [helloworldapp] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-08T20:03:53.679Z  INFO 2757 --- [helloworldapp] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-08T20:03:53.807Z  INFO 2757 --- [helloworldapp] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-08T20:03:53.812Z  INFO 2757 --- [helloworldapp] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4435 ms
+2025-04-08T20:03:55.595Z  INFO 2757 --- [helloworldapp] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2025-04-08T20:03:55.696Z  INFO 2757 --- [helloworldapp] [           main] dev.dp.HelloworldappApplication          : Started HelloworldappApplication in 9.268 seconds (process running for 11.164)
+2025-04-08T20:04:15.800Z  INFO 2757 --- [helloworldapp] [ionShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-08T20:04:15.843Z  INFO 2757 --- [helloworldapp] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
