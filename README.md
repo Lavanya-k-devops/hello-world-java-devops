@@ -45,8 +45,8 @@ cd hello-world
 Once we placed into directory, we have to perform maven install and do the run the maven to expose our project
 ./mvnw spring-boot:run
 
-![Maven exposed on respective port](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/maven built successfully.png?raw=true)
-![UI Result](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/mavan browser result.png?raw=true)
+![Maven exposed](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/mavan%20browser%20result.png)
+
 
 ### 2. Build Docker Image
 Build the Docker image for the Spring Boot application:
