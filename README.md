@@ -39,13 +39,14 @@ Before running this project, ensure you have the following installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
-Clone the repository to your local machine or directly to your server:
+### 1. Unzip the sprinboot app into project directory
+unzip hello-world
+cd hello-world
+Once we placed into directory, we have to perform maven install and do the run the maven to expose our project
+./mvnw spring-boot:run
 
-```bash
-git clone https://github.com/Lavanya-k-devops/hello-world-java-devops.git
-cd hello-world-java-devops
-```
+![Maven exposed on respective port](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/maven built successfully.png?raw=true)
+![UI Result](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/mavan browser result.png?raw=true)
 
 ### 2. Build Docker Image
 Build the Docker image for the Spring Boot application:
