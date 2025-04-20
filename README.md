@@ -109,8 +109,12 @@ Ingress enabled to our project and it is created with local id
   2. Build the Docker image.
   3. Push the image to **Docker Hub**.
   4. Deploy the image to a Kubernetes cluster using `kubectl`.
-  
+ 
 You can check the **Jenkins Job Console Output** for detailed build steps.
+
+![Github Webhook settings page](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/Github%20webhook%20settings.png)
+![Github webhook response-200](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/github%20webhook%20status%20200.png)
+![Jenkins triggers job](https://github.com/Lavanya-k-devops/hello-world-java-devops/blob/master/screenshots/Github%20webhook%20triggers%20jenkins%20job%20automatically.png)
 
 ## Conclusion
 
